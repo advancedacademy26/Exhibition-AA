@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0b2340"/>
+  <rect x="30" y="30" width="452" height="452" rx="88" fill="none" stroke="#d8b45c" stroke-width="12"/>
+  <path d="M104 112h304" stroke="#e6c66e" stroke-width="10" stroke-linecap="round"/>
+  <text x="256" y="276" text-anchor="middle" fill="#fff5d6" font-family="Georgia,serif" font-size="178" font-weight="700">S</text>
+  <text x="256" y="365" text-anchor="middle" fill="#e6c66e" font-family="Arial,sans-serif" font-size="44" font-weight="700" letter-spacing="12">SPECTRA</text>
+  <path d="M120 412h272" stroke="#e6c66e" stroke-width="8" stroke-linecap="round"/>
+</svg>

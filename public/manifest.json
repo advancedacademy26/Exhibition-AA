@@ -1,0 +1,17 @@
+{
+  "name": "Spectra Annual Exhibition 2026-27 | Advanced Academy Indore",
+  "short_name": "Spectra",
+  "description": "Spectra visitor passport, route, Citizen missions, stamp quest and certificate.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f3e7",
+  "theme_color": "#0b2340",
+  "icons": [
+    {
+      "src": "/spectra-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
